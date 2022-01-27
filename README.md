@@ -6,4 +6,5 @@ a simple music player using spring boot
 البته هنگام انتخاب هربار لیست موزیک ها ترتیبشون بهم میخوره تا موزیک تکراری نداشته باشیم 
 
 پروژه ساده اما لذت بخشی بود درحال حاظر این سرویس از دامنه زیر دردسترس هست و نمیدونم تا کی بالا باشه !
-player.mrfn.ir
+<br>
+<a href="https://player.mrfn.ir">player.mrfn.ir</a>
